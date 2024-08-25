@@ -1,0 +1,23 @@
+{
+  "name": "bluesrevised",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.4",
+    "router": "^1.3.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
